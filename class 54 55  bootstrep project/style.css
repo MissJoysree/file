@@ -1,0 +1,17 @@
+body{
+    background-color:rgb(21,34,57) !important;
+}
+
+nav{
+    background-color: #052c65;
+}
+#banner{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.700),rgba(0, 0, 0, 0.730)), url('images/banner-item-01.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#banner h1{
+    font-size: 3rem;
+}
